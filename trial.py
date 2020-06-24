@@ -1,3 +1,3 @@
-import sys
-print(sys.version)
-print(hello world)
+my_num = -4
+my_numb = 5
+print(pow(my_num, 2)+ my_numb)
